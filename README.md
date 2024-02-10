@@ -62,10 +62,31 @@ In detail activity, the status of the download will be displayed and animated vi
 
 ## Submission Feedback 
 
-## 1st Submission -  ✅/❌
+## 1st Submission -  Failed ❌
 ### 10th February 2024
 ```
+Hello Student!
 
+An awesome job was done with this project.
+
+✅ Custom attributes have been applied to the custom button.
+
+✅ The custom button is perfectly implemented and the animation is great. The message changes when the user clicks on the download button after selecting an option and he constantly receives good feedback while the file is downloading.
+
+✅ If the user clicks on the download button without making a selection, an informative Toast is shown.
+
+✅ The detail screen contains the name of the file downloaded and informs the user about its status.
+
+✅ The animation using MotionLayout has also been correctly implemented.
+
+There is just one small but important detail to be fixed and you will be done. Don't worry, looking at the great work done with this project, I'm sure that this won't take much of your time and your final app will be perfect.
+
+❌ When tested on a device running Android SDK and higher, the notification does not show. You only need to add runtime permissions and this issue will be solved. 😄
+
+All the projects must be able to run correctly on as many devices as possible.
 ```
+
+## 2nd Submission -  ✅/❌
+### 10th February 2024
 
 
