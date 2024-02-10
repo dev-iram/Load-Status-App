@@ -1,0 +1,22 @@
+<resources>
+    <!--    Load Status App-->
+    <string name="app_name">Load Status App</string>
+    <string name="app_description">Download files from Internet</string>
+    <string name="action_settings">Settings</string>
+    <!--Buttons/Labels-->
+    <string name="error_no_file_selected">Error - Please Select a File to Download!</string>
+    <string name="download_button">Download</string>
+    <string name="loading_button">Downloading..</string>
+    <string name="file_name">File name: </string>
+    <string name="status">Status: </string>
+    <string name="ok">OK</string>
+    <string name="glide_file_download">Glide - Image Loading Library by Bump Tech</string>
+    <string name="loadapp_file_download">LoadApp - Current repository by Udacity</string>
+    <string name="retrofit_file_download">Retrofit - Type-safe HTTP client for Android and Java by Square, Inc.</string>
+    <!--Notifications-->
+    <string name="notification_title">Download Status</string>
+    <string name="file_download_status">File Download Status</string>
+    <string name="notification_description">Your File has Downloaded!</string>
+    <string name="notification_button">See changes</string>
+    <string name="logo">logo</string>
+</resources>
