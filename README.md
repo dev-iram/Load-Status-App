@@ -62,6 +62,16 @@ In detail activity, the status of the download will be displayed and animated vi
 
 ## Submission Feedback 
 
+## 2nd Submission -  Passed ✅
+### 13th February 2024
+```
+Hello Dear Student!
+
+Awesome job solving so well the issue marked by the previous review, now your app will be able to be displayed on almost all devices in the market. 👏
+
+Now, you can continue with the lessons, and please, keep working like this!
+```
+
 ## 1st Submission -  Failed ❌
 ### 10th February 2024
 ```
@@ -86,7 +96,6 @@ There is just one small but important detail to be fixed and you will be done. D
 All the projects must be able to run correctly on as many devices as possible.
 ```
 
-## 2nd Submission -  ✅/❌
-### 10th February 2024
+
 
 
